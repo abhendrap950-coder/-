@@ -1,0 +1,6 @@
+{
+  "name": "॥ श्रीमद्भगवद्गीता ॥",
+  "description": "श्रीमद्भगवद्गीता - श्रीकृष्णार्जुन संवाद। 18 अध्याय, सम्पूर्ण श्लोक, प्रामाणिक संस्कृत पाठ एवं हिन्दी अर्थ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
